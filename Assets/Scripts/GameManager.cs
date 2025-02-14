@@ -85,6 +85,7 @@ public class GameManager : MonoBehaviour
     // -------------- UI Navigation --------------
     public void ShowMainMenu()
     {
+
         if (insertCoinPanel != null) insertCoinPanel.SetActive(false);
         if (toyDisplayPanel != null) toyDisplayPanel.SetActive(false);
         if (adPromptPanel != null) adPromptPanel.SetActive(false);
@@ -225,6 +226,7 @@ public class GameManager : MonoBehaviour
             currentDispensedToy = Instantiate(chosenToyPrefab, rotatorTransform);
             currentDispensedToy.transform.localPosition = Vector3.zero;
             currentDispensedToy.transform.localRotation = Quaternion.identity;
+            currentDispensedToy.transform.localScale = Vector3.one * 10.5f; // Scale up for detail view
         }
         else
         {
