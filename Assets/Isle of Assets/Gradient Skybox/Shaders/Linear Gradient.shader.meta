@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 32f82700d2f3c75449479a861f3b9c6e
+timeCreated: 1521118728
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225546
+  packageName: Gradient Skybox
+  packageVersion: 1.0.8
+  assetPath: Assets/Isle of Assets/Gradient Skybox/Shaders/Linear Gradient.shader
+  uploadId: 627143

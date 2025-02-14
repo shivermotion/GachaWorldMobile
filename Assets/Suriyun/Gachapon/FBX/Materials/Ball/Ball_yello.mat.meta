@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1711dd977d05e6f48a61177e24d7c449
+timeCreated: 1518240491
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111261
+  packageName: Gachapon
+  packageVersion: 2.0
+  assetPath: Assets/Suriyun/Gachapon/FBX/Materials/Ball/Ball_yello.mat
+  uploadId: 595979

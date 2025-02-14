@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6fdf1a88415dc1542894c0d436af9a1e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225546
+  packageName: Gradient Skybox
+  packageVersion: 1.0.8
+  assetPath: Assets/Isle of Assets/Gradient Skybox/Demo/Materials/Radial Skybox 2.mat
+  uploadId: 627143

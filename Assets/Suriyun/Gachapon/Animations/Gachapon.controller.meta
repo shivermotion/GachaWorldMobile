@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ff10177d8fea8c94e8d9ed7b52933bc2
+timeCreated: 1518239841
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111261
+  packageName: Gachapon
+  packageVersion: 2.0
+  assetPath: Assets/Suriyun/Gachapon/Animations/Gachapon.controller
+  uploadId: 595979

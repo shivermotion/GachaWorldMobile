@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ccb29d606ffb1ea4b9aa82644228ae57
+timeCreated: 1518240491
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111261
+  packageName: Gachapon
+  packageVersion: 2.0
+  assetPath: Assets/Suriyun/Gachapon/FBX/Materials/Ball/Ball_pink.mat
+  uploadId: 595979

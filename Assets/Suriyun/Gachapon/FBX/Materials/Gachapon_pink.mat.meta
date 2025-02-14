@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 47444fac52dd5024b942c5ad37ee1cd5
+timeCreated: 1518239697
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111261
+  packageName: Gachapon
+  packageVersion: 2.0
+  assetPath: Assets/Suriyun/Gachapon/FBX/Materials/Gachapon_pink.mat
+  uploadId: 595979

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c02109f9af3b96f498a375011dc839e2
+timeCreated: 1518239697
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111261
+  packageName: Gachapon
+  packageVersion: 2.0
+  assetPath: Assets/Suriyun/Gachapon/FBX/Materials/Gachapon_blue.mat
+  uploadId: 595979

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cfbd542d8f96ef344aa09196305a2466
+timeCreated: 1518241004
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111261
+  packageName: Gachapon
+  packageVersion: 2.0
+  assetPath: Assets/Suriyun/Gachapon/Prefab/Gachapon_red.prefab
+  uploadId: 595979

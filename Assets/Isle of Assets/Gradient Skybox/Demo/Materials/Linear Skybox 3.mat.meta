@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a872a90e53e277b49a070cd13d5695bd
+timeCreated: 1503076630
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225546
+  packageName: Gradient Skybox
+  packageVersion: 1.0.8
+  assetPath: Assets/Isle of Assets/Gradient Skybox/Demo/Materials/Linear Skybox 3.mat
+  uploadId: 627143

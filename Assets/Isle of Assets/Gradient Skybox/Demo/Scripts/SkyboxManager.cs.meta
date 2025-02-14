@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c634a027dad7fb74995e633bcd1f56bd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225546
+  packageName: Gradient Skybox
+  packageVersion: 1.0.8
+  assetPath: Assets/Isle of Assets/Gradient Skybox/Demo/Scripts/SkyboxManager.cs
+  uploadId: 627143
